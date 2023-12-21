@@ -254,6 +254,9 @@
     left: 1200px;
     font-size: x-large;
 }
+.ulmain{
+    background-color:white;
+}
 .ul1:hover, .ul2:hover, .ul3:hover{
     color:lightblue;
 }
